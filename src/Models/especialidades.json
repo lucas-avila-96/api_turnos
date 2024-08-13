@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiología"
+    },
+    {
+        "id": 2,
+        "name": "Neurología"
+    },
+    {
+        "id": 3,
+        "name": "Pediatría"
+    },
+    {
+        "id": 4,
+        "name": "Dermatología"
+    },
+    {
+        "id": 5,
+        "name": "Oftalmología"
+    },
+    {
+        "id": 6,
+        "name": "Gastroenterología"
+    },
+    {
+        "id": 7,
+        "name": "Endocrinología"
+    },
+    {
+        "id": 8,
+        "name": "Oncología"
+    },
+    {
+        "id": 9,
+        "name": "Reumatología"
+    },
+    {
+        "id": 10,
+        "name": "Neumología"
+    },
+    {
+        "id": 11,
+        "name": "Urología"
+    },
+    {
+        "id": 12,
+        "name": "Ginecología"
+    },
+    {
+        "id": 13,
+        "name": "Psiquiatría"
+    },
+    {
+        "id": 14,
+        "name": "Nefrología"
+    },
+    {
+        "id": 15,
+        "name": "Traumatología"
+    },
+    {
+        "id": 16,
+        "name": "Infectología"
+    },
+    {
+        "id": 17,
+        "name": "Otorrinolaringología"
+    },
+    {
+        "id": 18,
+        "name": "Hematología"
+    },
+    {
+        "id": 19,
+        "name": "Medicina Interna"
+    },
+    {
+        "id": 20,
+        "name": "Alergología"
+    }
+]

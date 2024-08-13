@@ -1,0 +1,202 @@
+[
+    {
+        "firstName": "Juan",
+        "lastName": "Pérez",
+        "specialty": 1
+    },
+    {
+        "firstName": "María",
+        "lastName": "Rodríguez",
+        "specialty": 1
+    },
+    {
+        "firstName": "Ana",
+        "lastName": "García",
+        "specialty": 2
+    },
+    {
+        "firstName": "José",
+        "lastName": "Sánchez",
+        "specialty": 2
+    },
+    {
+        "firstName": "Pedro",
+        "lastName": "López",
+        "specialty": 3
+    },
+    {
+        "firstName": "Laura",
+        "lastName": "González",
+        "specialty": 3
+    },
+    {
+        "firstName": "Lucía",
+        "lastName": "Martínez",
+        "specialty": 4
+    },
+    {
+        "firstName": "Fernando",
+        "lastName": "Ramírez",
+        "specialty": 4
+    },
+    {
+        "firstName": "Carlos",
+        "lastName": "Fernández",
+        "specialty": 5
+    },
+    {
+        "firstName": "Sofía",
+        "lastName": "Ruiz",
+        "specialty": 5
+    },
+    {
+        "firstName": "Alberto",
+        "lastName": "Vega",
+        "specialty": 6
+    },
+    {
+        "firstName": "Clara",
+        "lastName": "Domínguez",
+        "specialty": 6
+    },
+    {
+        "firstName": "Ricardo",
+        "lastName": "Torres",
+        "specialty": 7
+    },
+    {
+        "firstName": "Elena",
+        "lastName": "Navarro",
+        "specialty": 7
+    },
+    {
+        "firstName": "Marta",
+        "lastName": "Ortiz",
+        "specialty": 8
+    },
+    {
+        "firstName": "Sergio",
+        "lastName": "Hernández",
+        "specialty": 8
+    },
+    {
+        "firstName": "Raúl",
+        "lastName": "Castro",
+        "specialty": 9
+    },
+    {
+        "firstName": "Patricia",
+        "lastName": "Molina",
+        "specialty": 9
+    },
+    {
+        "firstName": "Isabel",
+        "lastName": "Núñez",
+        "specialty": 10
+    },
+    {
+        "firstName": "Luis",
+        "lastName": "Pascual",
+        "specialty": 10
+    },
+    {
+        "firstName": "Gabriel",
+        "lastName": "Prieto",
+        "specialty": 11
+    },
+    {
+        "firstName": "Mónica",
+        "lastName": "Moreno",
+        "specialty": 11
+    },
+    {
+        "firstName": "Teresa",
+        "lastName": "Gil",
+        "specialty": 12
+    },
+    {
+        "firstName": "Jorge",
+        "lastName": "Ibáñez",
+        "specialty": 12
+    },
+    {
+        "firstName": "Carmen",
+        "lastName": "Rivas",
+        "specialty": 13
+    },
+    {
+        "firstName": "Miguel",
+        "lastName": "Aguilar",
+        "specialty": 13
+    },
+    {
+        "firstName": "Francisco",
+        "lastName": "Campos",
+        "specialty": 14
+    },
+    {
+        "firstName": "Silvia",
+        "lastName": "Méndez",
+        "specialty": 14
+    },
+    {
+        "firstName": "Andrea",
+        "lastName": "Santos",
+        "specialty": 15
+    },
+    {
+        "firstName": "Manuel",
+        "lastName": "Herrera",
+        "specialty": 15
+    },
+    {
+        "firstName": "Beatriz",
+        "lastName": "Reyes",
+        "specialty": 16
+    },
+    {
+        "firstName": "Roberto",
+        "lastName": "Vázquez",
+        "specialty": 16
+    },
+    {
+        "firstName": "Álvaro",
+        "lastName": "Martín",
+        "specialty": 17
+    },
+    {
+        "firstName": "Esther",
+        "lastName": "Cano",
+        "specialty": 17
+    },
+    {
+        "firstName": "Rafael",
+        "lastName": "Lorenzo",
+        "specialty": 18
+    },
+    {
+        "firstName": "Alicia",
+        "lastName": "Peña",
+        "specialty": 18
+    },
+    {
+        "firstName": "Enrique",
+        "lastName": "Moya",
+        "specialty": 19
+    },
+    {
+        "firstName": "Susana",
+        "lastName": "Giménez",
+        "specialty": 19
+    },
+    {
+        "firstName": "Vicente",
+        "lastName": "Bravo",
+        "specialty": 20
+    },
+    {
+        "firstName": "Paula",
+        "lastName": "Soler",
+        "specialty": 20
+    }
+]
